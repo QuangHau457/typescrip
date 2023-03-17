@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "outDir": "./lap1",
+        "watch" : true
+    },
+    "include": ["src"]
+}  
